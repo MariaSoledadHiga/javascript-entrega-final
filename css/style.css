@@ -116,6 +116,7 @@ td {
 }
 /*header*/
 .header {
+  background-image: url("/img/header-mf.webp");
   position: fixed;
   top: 0;
   height: 120px;
@@ -125,17 +126,9 @@ td {
   justify-content: space-evenly;
   align-items: center;
 }
-.logo {
-  z-index: 100;
-}
 .logo-img {
   width: 100px;
 }
-/* .nav-menu {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-} */
 .nav-item {
   list-style: none;
   background-color: rgb(0, 0, 0, 0.7);
