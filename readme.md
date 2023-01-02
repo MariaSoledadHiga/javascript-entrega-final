@@ -1,3 +1,5 @@
+deploy: https://entrega-final-js-coderhouse.netlify.app/
+
 Simulador para hacer pedidos dentro de un bar con 20 mesas del 1 al 20
 
 > El simulador está pensado para ser utilizado por clientes que se encuentran en el bar con mesa asignada
